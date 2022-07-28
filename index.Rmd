@@ -2,10 +2,10 @@
 title: "Yuhao Min"
 image: "sigridur.jpg"
 links:
-  - label: CV (TBD)
-    url: "https://linkedin.com/"
-  - label: PubMed 
-    url: "https://medium.com/"
+  # - label: CV
+  #   url: "https://linkedin.com/"
+  - label: Publications 
+    url: "https://pubmed.ncbi.nlm.nih.gov/?term=Yuhao+Min&sort=date"
   - label: Linkedin
     url: "https://www.linkedin.com/in/yuhaomin/"
   - label: Github
@@ -16,26 +16,34 @@ output:
  
 # Bio
 
-text here....
+Hello! I am Yuhao Min, a Ph.D. candidate at the [Nilüfer Ertekin-Taner Lab](https://www.mayo.edu/research/labs/genetics-of-alzheimers-disease-and-endophenotypes/overview) at Mayo Clinic. My research focus on understanding the complex molecular and cellular changes in neurodegenerative brains using systems biology tools, and translating the findings into therapeutic targets.
+
+As an undergraduate student at University of Illinois at Urbana-Champaign, I worked at the [Huimin Zhao Lab](http://faculty.scs.illinois.edu/~zhaogrp/) to help develop better tools for synthetic biology applications.
+
 
 # Education
 
-**Mayo Clinic Graduate School of Biomedical Sciences** | Jacksonville, FL
+###### **Mayo Clinic Graduate School of Biomedical Sciences**
+
+Jacksonville, FL | 2019 - Present
 
 Ph.D. in Clinic and Translational Sciecnes 
 
-2019 - Present
 
-**University of Illinois at Urbana-Chamaign** | Urbana, IL
+###### **University of Illinois at Urbana-Chamaign** 
 
-B.S. in Chemistry | B.S. in Molecular and Cellular Biology
+Urbana, IL | 2014 - 2019
 
-Minor in Computer Science | 2014 - 2019
+B.S. in Chemistry | B.S. in Molecular and Cellular Biology | Minor in Computer Science 
 
 # Experience
 
-**Graduate Research Assistant** | [Nilufer Ertekin-Taner Lab](https://www.mayo.edu/research/labs/genetics-of-alzheimers-disease-and-endophenotypes/overview) | 2020 - Present
+###### **Graduate Research Assistant** 
 
-**Undergraduate Research Assistant** | [Huimin Zhao Lab](http://faculty.scs.illinois.edu/~zhaogrp/) | 2015 - 2018
+[Nilüfer Ertekin-Taner Lab](https://www.mayo.edu/research/labs/genetics-of-alzheimers-disease-and-endophenotypes/overview) | 2020 - Present
+
+###### **Undergraduate Research Assistant** 
+
+[Huimin Zhao Lab](http://faculty.scs.illinois.edu/~zhaogrp/) | 2015 - 2018
 
 
