@@ -1,0 +1,43 @@
+---
+title: "Yuhao Min"
+image: "sigridur.jpg"
+links:
+  - label: Resume
+    url: "https://linkedin.com/"
+  - label: Blog
+    url: "https://medium.com/"
+  - label: SoundCloud
+    url: "https://soundcloud.com/"
+  - label: Twitter
+    url: "https://twitter.com/"
+output:
+  postcards::solana
+---
+ 
+# Bio
+
+text here....
+
+# Education
+
+**Mayo Clinic Graduate School of Biomedical Sciences** | Jacksonville, FL
+
+Ph.D., [Ertekin-Taner Lab](https://www.mayo.edu/research/labs/genetics-of-alzheimers-disease-and-endophenotypes/overview) | 2019 - Present
+
+**University of Illinois at Urbana-Chamaign** | Urbana, IL
+
+B.S. in Chemistry | B.S. in Molecular and Cellular Biology
+
+Minor in Computer Science | 2014 - 2019
+
+# Experience
+
+**Freelance** | Live Entertainment Consultant | August 2018 - Present
+
+**Cercle** | Producer | August 2018 - Present
+
+**National Public Radio** | Producer | May 2015 - July 2018
+
+**NME Magazine** | Editor | July 2014 - July 2016
+
+**Iceland Symphony Orchestra** | Cellist | October 2009 - June 2014
