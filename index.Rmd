@@ -26,7 +26,7 @@ output:
 
 # <i class="fas fa-dna"></i> Bio
 
-Hello! I am Yuhao Min, a Ph.D. candidate at the [Nilüfer Ertekin-Taner Lab](https://www.mayo.edu/research/labs/genetics-of-alzheimers-disease-and-endophenotypes/overview) at Mayo Clinic. My research focus on understanding the complex molecular and cellular changes in neurodegenerative brains using systems biology tools, and translating the findings into therapeutic targets.
+Hello! I am Yuhao Min, a Ph.D. candidate at the [Nilüfer Ertekin-Taner Lab](https://www.mayo.edu/research/labs/genetics-of-alzheimers-disease-and-endophenotypes/overview) at Mayo Clinic. My research focuses on understanding the complex molecular and cellular changes in neurodegenerative brains using systems biology tools, and translating the findings into therapeutic targets.
 
 As an undergraduate student at University of Illinois at Urbana-Champaign, I worked at the [Huimin Zhao Lab](http://faculty.scs.illinois.edu/~zhaogrp/) to help develop better tools for synthetic biology applications.
 
@@ -37,7 +37,7 @@ As an undergraduate student at University of Illinois at Urbana-Champaign, I wor
 
 Jacksonville, FL | 2019 - Present
 
-Ph.D. in Clinic and Translational Sciecnes
+Ph.D. in Clinic and Translational Sciences
 
 
 ###### <span class="under">**University of Illinois at Urbana-Chamaign**</span>

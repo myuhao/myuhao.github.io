@@ -46,7 +46,7 @@ Cindy J. Lee, Tian A. Qiu, Zhilai Hong, Zhenkun Zhang, <span class="under">Yuhao
     knitr::include_graphics("publication_graphics/2022_FASEB.png")
     ```
       <div class="paper_abstract">
-      We isolated D-amino acid producing bacteria strains from rat gut microbiome and characterized  the D-amino acid level using biochemical and MS-based approaches. Our analysis furthered the idea that microbial metabolites modulate host physiology.
+      We isolated D-amino acid producing bacteria strains from rat gut microbiome and characterized the D-amino acid level using biochemical and MS-based approaches. Our analysis furthered the idea that microbial metabolites modulate host physiology.
       </div>
 
 1. <div class="paper_title">
@@ -77,7 +77,7 @@ Xue Wang, Mariet Allen, Özkan  İş, Joseph S. Reddy, Frederick Q. Tutor-New, M
     knitr::include_graphics("publication_graphics/2022_JCI.png")
     ```
       <div class="paper_abstract">
-      We systematically compared the transcriptome between AD, PSP, and control subjects in two brain regions with different neuropahtology. We identified conserved gene expression perturbations among the two distinct proteinopathies that are enriched in common biological pathways.
+      We systematically compared the transcriptome between AD, PSP, and control subjects in two brain regions with different neuropathology. We identified conserved gene expression perturbations among the two distinct proteinopathies that are enriched in common biological pathways.
       </div>
 
 1. <div class="paper_title">
@@ -107,7 +107,7 @@ Tong Si, Bin Li, Troy J Comi, Yuwei Wu, Pingfan Hu, Yuying Wu, <span class="unde
     knitr::include_graphics("publication_graphics/2017_JACS.gif")
     ```
       <div class="paper_abstract">
-      We report a automated screening workflow that utilizes MALDI-ToF MS to speed up product detection in bacteria colony.The rapid screening of the bacteria can enable discovery of novel antibiotics.
+      We report an automated screening workflow that utilizes MALDI-ToF MS to speed up product detection in bacteria colonies. The rapid screening of the bacteria can enable the discovery of novel antibiotics.
       </div>
 
 
@@ -129,7 +129,7 @@ Tong Si, Ran Chao, <span class="under">Yuhao Min</span>, Yuying Wu, Wen Ren, Hui
 ## Conference Presentations
 
 1. <div class="paper_title">
-<span class="under">Yuhao Min</span>, Xue Wang, Joseph S Reddy, Thuy Nguyen, Kimberly G. Malphrus, Julia E. Crook, Min- erva M. Carrasquillo, Dennis W. Dickson, Nilüfer Ertekin-Taner;
+<span class="under">Yuhao Min</span>, Xue Wang, Joseph S Reddy, Thuy Nguyen, Kimberly G. Malphrus, Julia E. Crook, Minerva M. Carrasquillo, Dennis W. Dickson, Nilüfer Ertekin-Taner;
 **Integrative Analysis Enables Translation of Omics Data to Molecular Targets in Progressive Supranuclear Palsy**. 
 Association for Clinical and Translational Science Conference, Association for Clinical and Translational Science, **2022**
 </div>
