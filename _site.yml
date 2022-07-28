@@ -1,5 +1,5 @@
 name: "myuhao.github.io"
-title: "Yuhao Min"
+title: 'ss'
 description: |
   Yuhao Min
 output_dir: "."
@@ -7,8 +7,10 @@ navbar:
   right:
     - text: "Home"
       href: index.html
-    - text: "About"
-      href: about.html
+    # - text: "About"
+    #   href: about.html
     - text: "Publication"
       href: https://pubmed.ncbi.nlm.nih.gov/?term=Yuhao+Min&sort=date
+
+    - icon: fa-solid fa-brain
 output: distill::distill_article
