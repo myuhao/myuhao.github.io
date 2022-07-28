@@ -1,0 +1,14 @@
+name: "myuhao.github.io"
+title: "Yuhao Min"
+description: |
+  Yuhao Min
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Publication"
+      href: https://pubmed.ncbi.nlm.nih.gov/?term=Yuhao+Min&sort=date
+output: distill::distill_article
