@@ -2,14 +2,14 @@
 title: "Yuhao Min"
 image: "sigridur.jpg"
 links:
-  - label: Resume
+  - label: CV (TBD)
     url: "https://linkedin.com/"
-  - label: Blog
+  - label: PubMed 
     url: "https://medium.com/"
-  - label: SoundCloud
-    url: "https://soundcloud.com/"
-  - label: Twitter
-    url: "https://twitter.com/"
+  - label: Linkedin
+    url: "https://www.linkedin.com/in/yuhaomin/"
+  - label: Github
+    url: "https://github.com/myuhao"
 output:
   postcards::solana
 ---
@@ -22,7 +22,9 @@ text here....
 
 **Mayo Clinic Graduate School of Biomedical Sciences** | Jacksonville, FL
 
-Ph.D., [Ertekin-Taner Lab](https://www.mayo.edu/research/labs/genetics-of-alzheimers-disease-and-endophenotypes/overview) | 2019 - Present
+Ph.D. in Clinic and Translational Sciecnes 
+
+2019 - Present
 
 **University of Illinois at Urbana-Chamaign** | Urbana, IL
 
@@ -32,12 +34,8 @@ Minor in Computer Science | 2014 - 2019
 
 # Experience
 
-**Freelance** | Live Entertainment Consultant | August 2018 - Present
+**Graduate Research Assistant** | [Nilufer Ertekin-Taner Lab](https://www.mayo.edu/research/labs/genetics-of-alzheimers-disease-and-endophenotypes/overview) | 2020 - Present
 
-**Cercle** | Producer | August 2018 - Present
+**Undergraduate Research Assistant** | [Huimin Zhao Lab](http://faculty.scs.illinois.edu/~zhaogrp/) | 2015 - 2018
 
-**National Public Radio** | Producer | May 2015 - July 2018
 
-**NME Magazine** | Editor | July 2014 - July 2016
-
-**Iceland Symphony Orchestra** | Cellist | October 2009 - June 2014
