@@ -3,7 +3,7 @@ title: "Yuhao Min"
 image: "sigridur.jpg"
 links:
   - label: '<i class="fas fa-envelope"></i> Email'
-    url: "mailto:min.yuhao@mayo.edu"
+    url: "mailto:myuhao@gmail.com"
   - label: '<i class="fas fa-book"></i> PubMed' 
     url: "https://pubmed.ncbi.nlm.nih.gov/?term=Yuhao+Min&sort=date"
   - label: '<i class="fab fa-linkedin"></i> Linkedin'
@@ -24,7 +24,7 @@ output:
 ```
 
 
-# Bio
+# <i class="fas fa-dna"></i> Bio
 
 Hello! I am Yuhao Min, a Ph.D. candidate at the [Nilüfer Ertekin-Taner Lab](https://www.mayo.edu/research/labs/genetics-of-alzheimers-disease-and-endophenotypes/overview) at Mayo Clinic. My research focus on understanding the complex molecular and cellular changes in neurodegenerative brains using systems biology tools, and translating the findings into therapeutic targets.
 

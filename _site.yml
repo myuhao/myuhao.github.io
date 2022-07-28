@@ -3,6 +3,7 @@ title: ''
 description: |
   Yuhao Min's Homepage
 output_dir: "."
+theme: theme.css
 navbar:
   left:
     # - icon: fas fa-dna

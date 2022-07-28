@@ -1,5 +1,9 @@
 ---
-title: "Publications"
+title: Publications
+output: 
+  distill::distill_article:
+    toc: true
+    toc_float: true
 ---
 ```{r, echo=FALSE}
 knitr::opts_chunk$set(
