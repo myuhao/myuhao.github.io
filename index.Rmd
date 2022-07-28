@@ -12,7 +12,7 @@ links:
     url: "https://github.com/myuhao"
 site: distill::distill_website
 output:
-  postcards::solana
+  postcards::trestles
 
 ---
 
