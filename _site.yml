@@ -11,6 +11,6 @@ navbar:
     - text: "Publications"
       href: publications.html
     - text: "Curriculum Vitae"
-      href: about.html
+      href: Yuhao_Min_CV.pdf
 
 output: distill::distill_article
