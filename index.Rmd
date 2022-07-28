@@ -2,13 +2,13 @@
 title: "Yuhao Min"
 image: "sigridur.jpg"
 links:
-  - label: '<i class="fa-solid fa-envelope"></i> Email'
+  - label: '<i class="fas fa-envelope"></i> Email'
     url: "mailto:min.yuhao@mayo.edu"
-  - label: '<i class="fa-solid fa-books"></i> Publications' 
+  - label: '<i class="fas fa-book"></i> PubMed' 
     url: "https://pubmed.ncbi.nlm.nih.gov/?term=Yuhao+Min&sort=date"
-  - label: '<i class="fab fa-linkedin"></i> LinkedIn'
+  - label: '<i class="fab fa-linkedin"></i> Linkedin'
     url: "https://www.linkedin.com/in/yuhaomin/"
-  - label: '<i class="fa-brands fa-square-github"></i> GitHub'
+  - label: '<i class="fab fa-github"></i> GitHub'
     url: "https://github.com/myuhao"
 site: distill::distill_website
 output:
@@ -28,7 +28,7 @@ output:
 
 Hello! I am Yuhao Min, a Ph.D. candidate at the [Nilüfer Ertekin-Taner Lab](https://www.mayo.edu/research/labs/genetics-of-alzheimers-disease-and-endophenotypes/overview) at Mayo Clinic. My research focus on understanding the complex molecular and cellular changes in neurodegenerative brains using systems biology tools, and translating the findings into therapeutic targets.
 
-As an undergraduate student atUniversity of Illinois at Urbana-Champaign, I worked at the [Huimin Zhao Lab](http://faculty.scs.illinois.edu/~zhaogrp/) to help develop better tools for synthetic biology applications.
+As an undergraduate student at University of Illinois at Urbana-Champaign, I worked at the [Huimin Zhao Lab](http://faculty.scs.illinois.edu/~zhaogrp/) to help develop better tools for synthetic biology applications.
 
 
 # Education

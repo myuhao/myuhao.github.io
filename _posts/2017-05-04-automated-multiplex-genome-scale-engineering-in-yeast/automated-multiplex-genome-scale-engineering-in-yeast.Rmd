@@ -1,0 +1,20 @@
+---
+title: "Automated multiplex genome-scale engineering in yeast"
+description: |
+  Nature Communications
+author:
+  - name: Tong Si
+  - name: Ran Chao
+  - name: Yuhao Min
+  - name: Yuying Wu
+  - name: Wen Ren
+  - name: Huimin Zhao
+
+citation_url: https://pubmed.ncbi.nlm.nih.gov/28469255/
+date: 05-04-2017
+preview: 41467_2017_Article_BFncomms15187_Fig1_HTML.webp
+output:
+  distill::distill_article
+---
+
+[!Graphic Abstract](41467_2017_Article_BFncomms15187_Fig1_HTML.webp)
