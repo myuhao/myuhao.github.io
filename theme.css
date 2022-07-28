@@ -31,6 +31,8 @@ html {
   --mono-font:       monospace;
   --body-font:       sans-serif;
   --navbar-font:     sans-serif;  /* websites + blogs only */
+  
+  --background-color: #80ced6;
 }
 
 /*-- ARTICLE METADATA --*/
@@ -75,4 +77,3 @@ d-appendix {
 
 /*-- Additional custom styles --*/
 /* Add any additional CSS rules below                      */
-

@@ -1,0 +1,57 @@
+---
+title: "Yuhao Min"
+image: "sigridur.jpg"
+links:
+  - label: '<i class="fas fa-envelope"></i> Email'
+    url: "mailto:myuhao@gmail.com"
+  - label: '<i class="fas fa-book"></i> PubMed' 
+    url: "https://pubmed.ncbi.nlm.nih.gov/?term=Yuhao+Min&sort=date"
+  - label: '<i class="fab fa-linkedin"></i> Linkedin'
+    url: "https://www.linkedin.com/in/yuhaomin/"
+  - label: '<i class="fab fa-github"></i> GitHub'
+    url: "https://github.com/myuhao"
+site: distill::distill_website
+output:
+  postcards::solana
+
+---
+
+```{css, echo=FALSE}
+.under {
+  text-decoration: underline
+}
+
+```
+
+
+# <i class="fas fa-dna"></i> Bio
+
+Hello! I am Yuhao Min, a Ph.D. candidate at the [Nilüfer Ertekin-Taner Lab](https://www.mayo.edu/research/labs/genetics-of-alzheimers-disease-and-endophenotypes/overview) at Mayo Clinic. My research focuses on understanding the complex molecular and cellular changes in neurodegenerative brains using systems biology tools, and translating the findings into therapeutic targets.
+
+As an undergraduate student at University of Illinois at Urbana-Champaign, I worked at the [Huimin Zhao Lab](http://faculty.scs.illinois.edu/~zhaogrp/) to help develop better tools for synthetic biology applications.
+
+
+# Education
+
+###### <span class="under">**Mayo Clinic Graduate School of Biomedical Sciences**</span>
+
+Jacksonville, FL | 2019 - Present
+
+Ph.D. in Clinic and Translational Sciences
+
+
+###### <span class="under">**University of Illinois at Urbana-Chamaign**</span>
+
+Urbana, IL | 2014 - 2019
+
+B.S. in Chemistry | B.S. in Molecular and Cellular Biology | Minor in Computer Science
+
+<!-- # Experience -->
+
+<!-- ###### <span class="under">**Graduate Research Assistant**<span> -->
+
+<!-- [Nilüfer Ertekin-Taner Lab](https://www.mayo.edu/research/labs/genetics-of-alzheimers-disease-and-endophenotypes/overview) | 2020 - Present -->
+
+<!-- ###### <span class="under">**Undergraduate Research Assistant**<span> -->
+
+<!-- [Huimin Zhao Lab](http://faculty.scs.illinois.edu/~zhaogrp/) | 2015 - 2018 -->
