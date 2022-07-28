@@ -10,8 +10,10 @@ links:
     url: "https://www.linkedin.com/in/yuhaomin/"
   - label: Github
     url: "https://github.com/myuhao"
+site: distill::distill_website
 output:
   postcards::solana
+
 ---
  
 # Bio
@@ -45,5 +47,3 @@ B.S. in Chemistry | B.S. in Molecular and Cellular Biology | Minor in Computer S
 ###### **Undergraduate Research Assistant** 
 
 [Huimin Zhao Lab](http://faculty.scs.illinois.edu/~zhaogrp/) | 2015 - 2018
-
-
