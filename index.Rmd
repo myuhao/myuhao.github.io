@@ -18,7 +18,11 @@ output:
 
 ```{css, echo=FALSE}
 .under {
-  text-decoration: underline
+  text-decoration: underline;
+}
+
+.body {
+  background-color = rgb(255, 0, 0);
 }
 
 ```

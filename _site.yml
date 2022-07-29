@@ -15,13 +15,13 @@ navbar:
       href: Yuhao_Min_CV.pdf
       
       
-  right:
-    # - icon: fas fa-dna
-    - text: "v1"
-      href: trestles_2.html
-    - text: "v2"
-      href: trestles_clean.html
-    - text: "v3"
-      href: solana_2.html
+  # right:
+  #   # - icon: fas fa-dna
+  #   - text: "v1"
+  #     href: trestles_2.html
+  #   - text: "v2"
+  #     href: trestles_clean.html
+  #   - text: "v3"
+  #     href: solana_2.html
 
 output: distill::distill_article
