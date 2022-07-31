@@ -3,7 +3,7 @@ title: "Yuhao Min"
 image: "sigridur.jpg"
 links:
   - label: '<i class="fas fa-envelope"></i> Email'
-    url: "mailto:myuhao@gmail.com"
+    url: "mailto:min.yuhao@mayo.edu"
   - label: '<i class="fas fa-book"></i> PubMed' 
     url: "https://pubmed.ncbi.nlm.nih.gov/?term=Yuhao+Min&sort=date"
   - label: '<i class="fab fa-linkedin"></i> Linkedin'
@@ -26,6 +26,12 @@ output:
 }
 
 ```
+
+
+# <span class="under">AAIC!!</span>
+Come and check out my AAIC 2022 Poster: **Integrative single-nucleus RNAseq analysis identifies cell-type-specific expression perturbations in progressive supranuclear palsy** ([Abstract](https://alz.confex.com/alz/2022/meetingapp.cgi/Paper/60672))
+
+In-person poster #60672 <span class="under">**July 31, Sunday, 12:30 - 2:15, PST**</span>. Recording available online via AAIC
 
 
 # <i class="fas fa-dna"></i> Bio
