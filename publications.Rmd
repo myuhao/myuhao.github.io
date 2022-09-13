@@ -131,7 +131,7 @@ Tong Si, Ran Chao, <span class="under">Yuhao Min</span>, Yuying Wu, Wen Ren, Hui
 1. <div class="paper_title">
 <span class="under">Yuhao Min</span>, Xue Wang, Özkan İş, Tulsi Patel, Joseph S Reddy, Thuy Nguyen, Jessica L. Chalk, Frederick Q. Tutor-New, Julia E. Crook, Minerva M. Carrasquillo, Dennis W. Dickson, Ke Zhang, Mariet Allen, Nilüfer Ertekin-Taner;
 **Integrative single-nucleus RNAseq analysis identifies cell-type-specific expression perturbations in progressive supranuclear palsy**. 
-Alzheimer’s Association International Conference, Alzheimer’s Association, Online, **2021**. (Poster)
+Alzheimer’s Association International Conference, Alzheimer’s Association, Online, **2022**. (Poster)
 </div>
 
 
